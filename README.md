@@ -36,7 +36,7 @@ To measure the success of this analysis, I have defined the following goals link
 The database consists of three related tables: **Users**, **Products**, and **Transactions**.
 
 
-![Diagramme ER](img/diagram.png)
+![Diagramme ER](IMG/diagram.png)
 
 4. Part A: SQL JOINS Implementation
 Here I demonstrate the use of different SQL JOIN types to analyze the relationships between customers and products.
